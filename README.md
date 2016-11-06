@@ -16,6 +16,6 @@ Your own The Movie DB API key is required for successfully building the app. Onc
 ##Screen shots
 <img src="app/src/main/res/drawable/screenshot_popular_movie.png" width="280" />
 <img src="app/src/main/res/drawable/screenshot_movie_detail.png" width="280" />
-<img src="app/src/main/res/drawable/screenshot_revenue.png" width="280" />
+<img src="app/src/main/res/drawable/Screenshot_revenue.png" width="280" />
 
 
