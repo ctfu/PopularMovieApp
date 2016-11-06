@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PopularMovie</string>
+    <string name="action_setting">Setting</string>
+
+    <string name="pref_movie_sorting_popularity">popularity.desc</string>
+    <string name="pref_movie_sorting_rating">vote_average.desc</string>
+    <string name="pref_movie_sorting_revenue">revenue.desc</string>
+    <string name="pref_movie_sorting_label_popularity">Movie Popularity</string>
+    <string name="pref_movie_sorting_label_rating">Movie Rating</string>
+    <string name="pref_movie_sorting_label_revenue">Movie Revenue</string>
+    <string name="pref_movie_sorting_label">Movie Sorting</string>
+    <string name="pref_movie_sorting_key">sort_by</string>
+    <string name="title_movie_detail">Movie Detail</string>
+    <string name="action_share">Share</string>
+</resources>
