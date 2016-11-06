@@ -14,6 +14,7 @@ Android app for discovering current popular movies.
 Your own The Movie DB API key is required for successfully building the app. Once obtain the API key, just past it to "YOUR-API-KEY".
 
 #Screen shots
+<img src="app/src/main/res/drawable/Screenshot_popularMovie.png" width="100" />
 ![popularity](app/src/main/res/drawable/Screenshot_popularMovie.png =200x)
 ![movieDetail](app/src/main/res/drawable/Screenshot_movieDetail.png)
 ![revenue](app/src/main/res/drawable/Screenshot_revenue.png)
