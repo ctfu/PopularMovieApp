@@ -1,3 +1,3 @@
-### Android Popular Movie App
-## About the project
+## Android Popular Movie App
+
 

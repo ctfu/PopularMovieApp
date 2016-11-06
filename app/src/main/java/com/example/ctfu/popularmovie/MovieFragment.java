@@ -138,7 +138,7 @@ public class MovieFragment extends Fragment {
                 final String API_KEY_PARAM = "api_key";
                 Uri builtUri = Uri.parse(MOVIE_BASE_RUL).buildUpon()
                         .appendQueryParameter(SORT_ORDER_PARAM, params[0])
-                        .appendQueryParameter(API_KEY_PARAM, "0befc99734129b5dd780c7c72d620db4")
+                        .appendQueryParameter(API_KEY_PARAM, "YOUR-API-KEY")
                         .build();
 
                 URL url = new URL(builtUri.toString());
